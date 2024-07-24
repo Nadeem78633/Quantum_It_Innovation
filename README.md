@@ -1,5 +1,6 @@
 # Quantum it innovvation
 
+# I have .env file too
 # How To Run The App
 Run Everthing in root folder quantumItInnovation
 
