@@ -4,8 +4,8 @@
 Run Everthing in root folder quantumItInnovation
 
 ### Step  1.Run Backend using one of them command 
-npm run start
-npm run server
+- npm run start
+- npm run server
 
 ### Step  2.Run Frontend using 
 npm run client 
